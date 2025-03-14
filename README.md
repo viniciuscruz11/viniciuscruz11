@@ -7,6 +7,7 @@ Sou um Programador Front End, atualmente estou aprendendo e criando projetos com
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 <br>
 <br>
+
   E iniciando o aprendizado de:
   <br>
   <br>
