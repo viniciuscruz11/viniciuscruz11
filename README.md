@@ -1,4 +1,4 @@
-## Hi there, Eu sou Vinícius Cruz 👋
+## Olá, Eu sou Vinícius Cruz 👋
 
 Sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
